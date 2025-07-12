@@ -1,0 +1,6 @@
+"id_transaksi,jenis,id_produk,jumlah,tanggal"
+"T001,penjualan,P001,2,2025-07-08"
+"T002,penjualan,P004,5,2025-07-08"
+"T003,penjualan,P002,1,2025-07-09"
+"T004,penjualan,P003,3,2025-07-09"
+"T005,penjualan,P001,4,2025-07-10"
